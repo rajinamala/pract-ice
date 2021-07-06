@@ -1,0 +1,6 @@
+1.they are teaching how to create a github account
+#include<stdio.h>
+int main()
+{
+printf("hii");
+}
